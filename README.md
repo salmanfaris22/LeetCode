@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/salmanfaris22/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [3412-permutation-difference-between-two-strings](https://github.com/salmanfaris22/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1797-goal-parser-interpretation](https://github.com/salmanfaris22/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [2032-largest-odd-number-in-string](https://github.com/salmanfaris22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [3412-permutation-difference-between-two-strings](https://github.com/salmanfaris22/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Greedy
 |  |
 | ------- |
