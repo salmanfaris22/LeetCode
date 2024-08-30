@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/salmanfaris22/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/salmanfaris22/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1791-richest-customer-wealth](https://github.com/salmanfaris22/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
 ## String
 |  |
 | ------- |
