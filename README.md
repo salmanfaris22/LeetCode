@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1791-richest-customer-wealth](https://github.com/salmanfaris22/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3311-ant-on-the-boundary](https://github.com/salmanfaris22/LeetCode/tree/master/3311-ant-on-the-boundary) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/salmanfaris22/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3412-permutation-difference-between-two-strings](https://github.com/salmanfaris22/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -89,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/salmanfaris22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Counting
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
