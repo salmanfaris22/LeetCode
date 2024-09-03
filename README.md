@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/salmanfaris22/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/salmanfaris22/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/salmanfaris22/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -54,18 +55,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/salmanfaris22/LeetCode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salmanfaris22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1651-shuffle-string](https://github.com/salmanfaris22/LeetCode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/salmanfaris22/LeetCode/tree/master/1797-goal-parser-interpretation) |
