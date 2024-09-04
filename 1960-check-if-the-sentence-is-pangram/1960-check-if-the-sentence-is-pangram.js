@@ -5,5 +5,5 @@
 var checkIfPangram = function(sentence) {
     
 
-    return [...new Set(sentence)].length==26 ? true:false
+    return [...new Set(sentence)].length==26 
 };
