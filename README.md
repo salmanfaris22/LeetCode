@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/salmanfaris22/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/salmanfaris22/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/salmanfaris22/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [3227-find-missing-and-repeated-values](https://github.com/salmanfaris22/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3311-ant-on-the-boundary](https://github.com/salmanfaris22/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/salmanfaris22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/salmanfaris22/LeetCode/tree/master/1797-goal-parser-interpretation) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/salmanfaris22/LeetCode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/salmanfaris22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/salmanfaris22/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2401-count-asterisks](https://github.com/salmanfaris22/LeetCode/tree/master/2401-count-asterisks) |
 | [3312-number-of-changing-keys](https://github.com/salmanfaris22/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3412-permutation-difference-between-two-strings](https://github.com/salmanfaris22/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
