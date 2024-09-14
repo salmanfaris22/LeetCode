@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/salmanfaris22/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/salmanfaris22/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/salmanfaris22/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3226-minimum-number-game](https://github.com/salmanfaris22/LeetCode/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/salmanfaris22/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/salmanfaris22/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/salmanfaris22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/salmanfaris22/LeetCode/tree/master/2630-alternating-digit-sum) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/salmanfaris22/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/salmanfaris22/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
