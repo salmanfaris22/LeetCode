@@ -5,8 +5,8 @@
 var lexicalOrder = function(n) {
         c=[]
     for(i=1;i<=n;i++){
-       c.push(i+"") 
-    } c=c.map((e)=>e*1)
+       c.push(i) 
+    } 
     
     return c.sort()
 };
