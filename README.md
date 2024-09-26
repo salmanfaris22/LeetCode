@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/salmanfaris22/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0792-binary-search](https://github.com/salmanfaris22/LeetCode/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1241-decompress-run-length-encoded-list](https://github.com/salmanfaris22/LeetCode/tree/master/1241-decompress-run-length-encoded-list) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/salmanfaris22/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/salmanfaris22/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0792-binary-search](https://github.com/salmanfaris22/LeetCode/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
