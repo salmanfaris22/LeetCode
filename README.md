@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/salmanfaris22/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/salmanfaris22/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/salmanfaris22/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2383-add-two-integers](https://github.com/salmanfaris22/LeetCode/tree/master/2383-add-two-integers) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/salmanfaris22/LeetCode/tree/master/2630-alternating-digit-sum) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/salmanfaris22/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/salmanfaris22/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2298-count-integers-with-even-digit-sum](https://github.com/salmanfaris22/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [3226-minimum-number-game](https://github.com/salmanfaris22/LeetCode/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/salmanfaris22/LeetCode/tree/master/3311-ant-on-the-boundary) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/salmanfaris22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
