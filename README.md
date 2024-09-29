@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/salmanfaris22/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/salmanfaris22/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/salmanfaris22/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/salmanfaris22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salmanfaris22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/salmanfaris22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/salmanfaris22/LeetCode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/salmanfaris22/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/salmanfaris22/LeetCode/tree/master/2048-build-array-from-permutation) |
