@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/salmanfaris22/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/salmanfaris22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/1610-xor-operation-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/salmanfaris22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [1610-xor-operation-in-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Sorting
