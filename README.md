@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/salmanfaris22/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/salmanfaris22/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/salmanfaris22/LeetCode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/salmanfaris22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/salmanfaris22/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/salmanfaris22/LeetCode/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/salmanfaris22/LeetCode/tree/master/0065-valid-number) |
+| [0125-valid-palindrome](https://github.com/salmanfaris22/LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/salmanfaris22/LeetCode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
