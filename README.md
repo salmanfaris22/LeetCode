@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/salmanfaris22/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/salmanfaris22/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/salmanfaris22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/salmanfaris22/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0792-binary-search](https://github.com/salmanfaris22/LeetCode/tree/master/0792-binary-search) |
 | [0837-most-common-word](https://github.com/salmanfaris22/LeetCode/tree/master/0837-most-common-word) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/salmanfaris22/LeetCode/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/salmanfaris22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/salmanfaris22/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -229,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/salmanfaris22/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/salmanfaris22/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
