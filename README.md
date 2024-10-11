@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/salmanfaris22/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/salmanfaris22/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/salmanfaris22/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3371-harshad-number](https://github.com/salmanfaris22/LeetCode/tree/master/3371-harshad-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/salmanfaris22/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search
 |  |
