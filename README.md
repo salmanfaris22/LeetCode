@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/salmanfaris22/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
 | [0070-climbing-stairs](https://github.com/salmanfaris22/LeetCode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/salmanfaris22/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/salmanfaris22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/salmanfaris22/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/salmanfaris22/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/salmanfaris22/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String Matching
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/salmanfaris22/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1806-count-of-matches-in-tournament](https://github.com/salmanfaris22/LeetCode/tree/master/1806-count-of-matches-in-tournament) |
 | [2048-build-array-from-permutation](https://github.com/salmanfaris22/LeetCode/tree/master/2048-build-array-from-permutation) |
