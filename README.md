@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/salmanfaris22/LeetCode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/salmanfaris22/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/salmanfaris22/LeetCode/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/salmanfaris22/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/salmanfaris22/LeetCode/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/salmanfaris22/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/salmanfaris22/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/salmanfaris22/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/salmanfaris22/LeetCode/tree/master/0043-multiply-strings) |
+| [0066-plus-one](https://github.com/salmanfaris22/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/salmanfaris22/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/salmanfaris22/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
