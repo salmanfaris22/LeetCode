@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/salmanfaris22/LeetCode/tree/master/0179-largest-number) |
 | [0389-find-the-difference](https://github.com/salmanfaris22/LeetCode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/salmanfaris22/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/salmanfaris22/LeetCode/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/salmanfaris22/LeetCode/tree/master/0837-most-common-word) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/salmanfaris22/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
