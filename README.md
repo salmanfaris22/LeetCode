@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/salmanfaris22/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/salmanfaris22/LeetCode/tree/master/0283-move-zeroes) |
 | [0908-middle-of-the-linked-list](https://github.com/salmanfaris22/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [0953-reverse-only-letters](https://github.com/salmanfaris22/LeetCode/tree/master/0953-reverse-only-letters) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/salmanfaris22/LeetCode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/salmanfaris22/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0742-to-lower-case](https://github.com/salmanfaris22/LeetCode/tree/master/0742-to-lower-case) |
 | [0837-most-common-word](https://github.com/salmanfaris22/LeetCode/tree/master/0837-most-common-word) |
+| [0953-reverse-only-letters](https://github.com/salmanfaris22/LeetCode/tree/master/0953-reverse-only-letters) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/salmanfaris22/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1651-shuffle-string](https://github.com/salmanfaris22/LeetCode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/salmanfaris22/LeetCode/tree/master/1797-goal-parser-interpretation) |
