@@ -3,19 +3,13 @@
  * @return {string}
  */
 var finalString = function(s) {
-      s=s.split("")
+ s=s.split("")
     c=""
-    
     for(i=0;i<s.length;i++){
-        
         if(s[i]=="i"){
-          
-          f=c.split("").reverse().join("")
-          j=s.splice(i+1).join("")
-          s=f+j
-          s=s.split("")
+          s=(c.split("").reverse().join("")+s.splice(i+1).join("")).split("")
           i=0
-            c=""
+          c=""
         }
         c+=s[i]
     }
