@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/salmanfaris22/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/salmanfaris22/LeetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/salmanfaris22/LeetCode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/salmanfaris22/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/salmanfaris22/LeetCode/tree/master/0412-fizz-buzz) |
 | [1031-add-to-array-form-of-integer](https://github.com/salmanfaris22/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/salmanfaris22/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/salmanfaris22/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0326-power-of-three](https://github.com/salmanfaris22/LeetCode/tree/master/0326-power-of-three) |
 ## Dynamic Programming
 |  |
 | ------- |
