@@ -249,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/salmanfaris22/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/salmanfaris22/LeetCode/tree/master/0503-next-greater-element-ii) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/salmanfaris22/LeetCode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->
