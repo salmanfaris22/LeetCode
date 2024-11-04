@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/salmanfaris22/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/salmanfaris22/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/salmanfaris22/LeetCode/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/salmanfaris22/LeetCode/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/salmanfaris22/LeetCode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/salmanfaris22/LeetCode/tree/master/0283-move-zeroes) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/salmanfaris22/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/salmanfaris22/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/salmanfaris22/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/salmanfaris22/LeetCode/tree/master/0342-power-of-four) |
